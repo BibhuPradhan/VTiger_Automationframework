@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-29T08:58:51 IST" name="Default suite" finished-at="2022-12-29T08:59:39 IST" duration-ms="47655">
+    <groups>
+      <group name="RegressionSuite">
+        <method signature="CreateContactWithOrganization.DemoTest()[pri:0, instance:vTiger.ContactsTests.CreateContactWithOrganization@1189dd52]" name="DemoTest" class="vTiger.ContactsTests.CreateContactWithOrganization"/>
+      </group> <!-- RegressionSuite -->
+      <group name="SmokeSuite">
+        <method signature="CreateContactWithOrganization.createContactWithOrgTest()[pri:0, instance:vTiger.ContactsTests.CreateContactWithOrganization@1189dd52]" name="createContactWithOrgTest" class="vTiger.ContactsTests.CreateContactWithOrganization"/>
+      </group> <!-- SmokeSuite -->
+    </groups>
+    <test started-at="2022-12-29T08:58:51 IST" name="Default test" finished-at="2022-12-29T08:59:39 IST" duration-ms="47655">
+      <class name="vTiger.ContactsTests.CreateContactWithOrganization">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:vTiger.ContactsTests.CreateContactWithOrganization@1189dd52]" started-at="2022-12-29T08:58:51 IST" name="bsConfig" finished-at="2022-12-29T08:58:51 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:vTiger.ContactsTests.CreateContactWithOrganization@1189dd52]" started-at="2022-12-29T08:58:51 IST" name="bcConfig" finished-at="2022-12-29T08:59:03 IST" duration-ms="12090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:vTiger.ContactsTests.CreateContactWithOrganization@1189dd52]" started-at="2022-12-29T08:59:03 IST" name="bmConfig" finished-at="2022-12-29T08:59:07 IST" duration-ms="3543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="DemoTest()[pri:0, instance:vTiger.ContactsTests.CreateContactWithOrganization@1189dd52]" started-at="2022-12-29T08:59:07 IST" name="DemoTest" finished-at="2022-12-29T08:59:07 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTest -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:vTiger.ContactsTests.CreateContactWithOrganization@1189dd52]" started-at="2022-12-29T08:59:07 IST" name="amConfig" finished-at="2022-12-29T08:59:12 IST" duration-ms="5105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:vTiger.ContactsTests.CreateContactWithOrganization@1189dd52]" started-at="2022-12-29T08:59:12 IST" name="bmConfig" finished-at="2022-12-29T08:59:15 IST" duration-ms="2947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="createContactWithOrgTest()[pri:0, instance:vTiger.ContactsTests.CreateContactWithOrganization@1189dd52]" started-at="2022-12-29T08:59:15 IST" name="createContactWithOrgTest" finished-at="2022-12-29T08:59:37 IST" duration-ms="21991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactWithOrgTest -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:vTiger.ContactsTests.CreateContactWithOrganization@1189dd52]" started-at="2022-12-29T08:59:37 IST" name="amConfig" finished-at="2022-12-29T08:59:39 IST" duration-ms="1653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:vTiger.ContactsTests.CreateContactWithOrganization@1189dd52]" started-at="2022-12-29T08:59:39 IST" name="acConfig" finished-at="2022-12-29T08:59:39 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:vTiger.ContactsTests.CreateContactWithOrganization@1189dd52]" started-at="2022-12-29T08:59:39 IST" name="asConfig" finished-at="2022-12-29T08:59:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- vTiger.ContactsTests.CreateContactWithOrganization -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
